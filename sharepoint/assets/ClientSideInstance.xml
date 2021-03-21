@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="ScrollToTopButtonForSitePages"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="7e576969-6c0a-4bca-a6db-c9aa13367a10"
+        Properties="{}">
+    </ClientSideComponentInstance>
+</Elements>

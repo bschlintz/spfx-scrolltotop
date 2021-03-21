@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "scrolltotopbutton": {
+      "components": [
+        {
+          "entrypoint": "./lib/extensions/scrollToTop/ScrollToTopApplicationCustomizer.js",
+          "manifest": "./src/extensions/scrollToTop/ScrollToTopApplicationCustomizer.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "ScrollToTopApplicationCustomizerStrings": "lib/extensions/scrollToTop/loc/{locale}.js"
+  }
+}
